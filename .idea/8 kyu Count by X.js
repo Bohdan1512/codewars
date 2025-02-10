@@ -10,4 +10,3 @@ function countBy(x, n) {
 
 console.log(countBy(3, 5))
 
-
