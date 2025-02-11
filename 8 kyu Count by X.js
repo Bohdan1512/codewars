@@ -8,5 +8,5 @@ function countBy(x, n) {
     return z;
 }
 
-console.log(countBy(3, 5))
+console.log(countBy(3, 5));
 
